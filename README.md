@@ -1,4 +1,4 @@
-# configuration-scheme-bean-generator
+# Kafka producers/consumers property-based generation
 
 Create beans `KafkaTemplate<String, ? extends BasicEvent>` and `KafkaMessageListenerContainer` for every event
 specified in properties file.
